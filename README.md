@@ -1,6 +1,6 @@
 # Examen-parte2
 
-Mi dirección de GitHub:
+Mi dirección de GitHub: https://github.com/claudiaalozano/Examen-parte2.git
 
 ### Ejercicio 1
 
