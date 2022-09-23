@@ -11,10 +11,6 @@ matriz = [
 
 ]
 
-#def suma():
-    #i=0
-    #for i in range :
-        #elementos= sum(matriz)
 
 def sum1(n):
     sumita= v1 + v2 + v3 
