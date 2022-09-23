@@ -6,9 +6,7 @@ def crear_listas(x):
     
 
 def multiplos_de_5(y):
-    #e1 = 0
-    #e2 = 50
-    #multiple = 5
+   
     lista = []
     start_num= int(0)
     end_num= int(50)
